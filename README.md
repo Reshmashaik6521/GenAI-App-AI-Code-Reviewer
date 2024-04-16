@@ -19,4 +19,7 @@ streamlit run app.py
 ![Screenshot (282)](https://github.com/Reshmashaik6521/GenAI-App-AI-Code-Reviewer/assets/129650604/ab1db7cf-e3dd-4c2b-82a2-012017d876ec)
 ![Screenshot (284)](https://github.com/Reshmashaik6521/GenAI-App-AI-Code-Reviewer/assets/129650604/4052f777-913e-4654-a92e-6f775fe3cfbf)
 ![Screenshot (283)](https://github.com/Reshmashaik6521/GenAI-App-AI-Code-Reviewer/assets/129650604/689f9378-70bc-4642-b3ac-2efe2e9a3fad)
-
+# Technologies Used
+Python
+Streamlit
+OpenAI GPT-3.5
